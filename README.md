@@ -90,7 +90,7 @@ Netflix-Tableau-Dashboard/
 
 ## 📸 Dashboard Preview
 
-![Netflix Tableau Dashboard](screenshots/Dashboard.png)
+![Netflix-Dashboard](screenshots/Dashboard.png)
 
 ## 📈 Key Insights
 
